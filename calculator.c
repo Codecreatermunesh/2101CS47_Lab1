@@ -17,5 +17,8 @@ int main()
         case 2:
         printf("%.1f", (a - b));
         break;
+        case 3:
+        printf("%.1f", (a * b));
+        break;
           return 0;
 }
