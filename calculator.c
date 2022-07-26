@@ -20,5 +20,9 @@ int main()
         case 3:
         printf("%.1f", (a * b));
         break;
+         case 4:
+        printf("%.1f", (a / b));
+        break;
+    }
           return 0;
 }
